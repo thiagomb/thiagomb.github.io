@@ -1,0 +1,15 @@
+{
+  "applinks": {
+      "details": [
+           {
+             "appIDs": [ "ABCDE12345.br.com.scopus.apptransactionalpf"],
+             "components": [
+               {
+                  "/": "*",
+                  "comment": "Matches any URL whose fragment equals no_universal_links and instructs the system not to open it as a universal link"
+               }
+             ]
+           }
+       ]
+   }
+}
