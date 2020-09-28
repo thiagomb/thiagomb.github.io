@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "br.com.test.applink",
+    "package_name": "br.com.test.trapperapplication",
     "sha256_cert_fingerprints":
     ["29:42:03:05:DB:61:87:E4:FD:2F:95:08:D9:8F:51:5A:97:6B:AC:B0:E5:9A:41:69:77:1F:D9:7A:35:27:AF:C3"]
   }
