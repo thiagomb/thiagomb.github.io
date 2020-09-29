@@ -1,3 +1,2 @@
 include: [".well-known"]
 theme: jekyll-theme-slate
-permalink: /:path/:basename
