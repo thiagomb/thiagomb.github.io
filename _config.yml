@@ -1,5 +1,3 @@
 include: [".well-known"]
 theme: jekyll-theme-slate
-webrick:
-  headers:
-    Content-Type: application/json
+permalink: /:path/:basename
